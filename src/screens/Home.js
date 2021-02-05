@@ -57,7 +57,6 @@ const Home = ({ navigation }) => {
                 }
             })
     }
-
     return (
         <SafeAreaView style={{ flex: 1, backgroundColor: "white" }}>
             <View style={{ flex: 0.1, backgroundColor: "#f5f6f7", flexDirection: 'row', alignItems: 'center', paddingHorizontal: 10 }}>
